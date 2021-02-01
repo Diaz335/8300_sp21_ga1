@@ -24,3 +24,4 @@ git commit -m "Started the assignment"
 #2nd .md with more content
 cp /fs/ess/PAS1855/users/diaz335/week03/pracs_sp21_ga1.md READ**BOLD FONT**
 **BOLD FONT**
+added data .txt files and used a for loop to change to .csv files
