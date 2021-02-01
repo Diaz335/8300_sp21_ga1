@@ -22,4 +22,5 @@ git commit -m "Started the assignment"
 #Part2
 ```
 #2nd .md with more content
-cp /fs/ess/PAS1855/users/diaz335/week03/pracs_sp21_ga1.md READ
+cp /fs/ess/PAS1855/users/diaz335/week03/pracs_sp21_ga1.md READ**BOLD FONT**
+**BOLD FONT**
